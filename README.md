@@ -1,1 +1,3 @@
-# Wellingtonribeiro
+- Hi, I'm Wellington Ribeiro
+- I'm Interested in HTML, CSS, JavaScript, React, TypeScript, Vue.js
+- I'm looking to collaborate on Front-end
